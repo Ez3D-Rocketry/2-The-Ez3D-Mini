@@ -1,5 +1,5 @@
 # Ez3D-Mini
-Great park flyer that uses 13mm mini motor
+Great park flyer that uses mini A motors. Parts tape together. No glue required. 
 
 Parts List:
 1. Ez3D-Mini Fin Can
