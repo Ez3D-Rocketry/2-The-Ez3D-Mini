@@ -10,7 +10,10 @@ Parts List:
    - 3D printable tube cutting guide included in repository files
 6. Three (3) feet of Kevlar string for Recovery Harness
    - Used 9KM DWLIFE Black Braided Kevlar Cord (1.3mm, 300 lb) but others may work
-8. Twelve (12) inches of streamer (optional)
+8. Twelve (12) inches of streamer (Optional)
+9. Two (2) inches of BT-5 type body tube (13mm) (Optional)
+    - This tube served as an insulator between the motor and fin can
+    - Use of insulator helps reduce fin can heat shrink after each launch
 
 Assembly: 
 1. Tie Recovery Harness to hole in Fin Can
@@ -26,9 +29,12 @@ Launch Preperation:
 1. Insert 1 or 2 squares of recovery wadding into Body Tube
 2. Load Recovery Harness and Streamer into Body Tube
 3. Place Nose Cone on top of Body Tube - ensure slightly snug fit
-4. Load motor into Fin Can
-5. Screw Motor Retention Cap onto base of Fin Can
-6. Launch using standard model rocket procedures
+4. Slide BT-5 insulator into Fin Can before motor (Optional)
+5. Load motor into Fin Can
+ - Motor will fit loosely if BT-5 insulator is not used
+ - Loose fit is not an issue with proper motor retention
+7. Screw Motor Retention Cap onto base of Fin Can
+8. Launch using standard model rocket procedures
 
 Recommended motors and expected performance: 
 
@@ -40,3 +46,7 @@ A10-3T      = 240 ft (Optimum delay = 2.95 s)
 
 A3-4T       = 273 ft (Optimum delay = 3.3 s)
 
+
+IMPORTANT POST FLIGHT NOTES:
+- 3D filiment will shrink after cooling down from heat of motor
+- 
