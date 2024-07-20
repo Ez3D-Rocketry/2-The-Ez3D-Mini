@@ -12,8 +12,8 @@ Parts List:
    - Used 9KM DWLIFE Black Braided Kevlar Cord (1.3mm, 300 lb) but others may work
 8. Twelve (12) inches of streamer (Optional)
 9. Two (2) inches of BT-5 type body tube (13mm) (Optional)
-    - This tube served as an insulator between the motor and fin can
-    - Use of insulator helps reduce fin can heat shrink after each launch
+    - This tube served as an Insulator between the motor and Fin Can
+    - Use of Insulator helps reduce Fin Can heat shrink after each launch
 
 Assembly: 
 1. Tie Recovery Harness to hole in Fin Can
@@ -48,5 +48,6 @@ A3-4T       = 273 ft (Optimum delay = 3.3 s)
 
 
 IMPORTANT POST FLIGHT NOTES:
-- 3D filiment will shrink after cooling down from heat of motor
-- 
+- 3D printed material shrinks after cooling down from heat of motor
+- Removal of motor may be difficult or impossible after one or several flights
+- PLA filiment most suspectable to shrinking. Others may last longer. 
