@@ -8,7 +8,7 @@ Parts List:
 4. 6 inches of BT-50 Body Tube
    - A standard 18 inch tube makes three kits
 6. 3 feet of Kevlar string for Recovery Harness
-   - Used 9KM DWLIFE Black Braided Kevlar Cord but other may work
+   - Used 9KM DWLIFE Black Braided Kevlar Cord (1.3mm, 300 lb) but others may work
 8. 12 inches of streamer (optional)
 
 Assembly: 
