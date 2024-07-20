@@ -18,14 +18,17 @@ Parts List:
     - Use of Insulator helps reduce Fin Can heat shrink after each launch
 
 Assembly: 
+
+   - NOTE: Individual printers and filiment have different tolerances
+   - Fit check items before assembly and sand to fit if requried
+     
 1. Tie Recovery Harness to hole in Fin Can
 2. Thread Recovery Harness thru Body Tube
 3. Slide Body Tube onto top of Fin Can
 4. Tape Body Tube to Fin Can - avoid blocking integrated launch lug
 5. Tie loose end of Recovery Harness to Nose Cone
 6. Tie streamer to Recovery Hanress near top of Nose Cone
-   - NOTE: Individual printers and filiment have different tolerances
-   - Fit check items before assembly and sand to fit if requried
+
 
 Launch Preperation:
 1. Insert 1 or 2 squares of recovery wadding into Body Tube
