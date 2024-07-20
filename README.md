@@ -1,7 +1,7 @@
 # Ez3D-Mini
-Great park flyer that uses mini A motors. Parts tape together. No glue required. 
+## Great park flyer that uses mini A motors. Parts tape together. No glue required. 
 
-Parts List:
+# Parts List:
 1. Ez3D-Mini Fin Can
 2. Ez3D-Mini Nose Cone
 3. Ez3D-Mini Motor Retention Cap
@@ -17,10 +17,10 @@ Parts List:
     - This tube serves as an Insulator between the motor and Fin Can
     - Use of Insulator helps reduce Fin Can heat shrink after each launch
 
-Assembly: 
+# Assembly: 
 
-   - NOTE: Individual printers and filiment have different tolerances
-   - Fit check items before assembly and sand to fit if requried
+**NOTE: Individual printers and filiment have different tolerances** <br />
+**- Fit check items before assembly and sand to fit if requried**
      
 1. Tie Recovery Harness to hole in Fin Can
 2. Thread Recovery Harness thru Body Tube
@@ -30,7 +30,7 @@ Assembly:
 6. Tie streamer to Recovery Hanress near top of Nose Cone
 
 
-Launch Preperation:
+# Launch Preperation:
 1. Insert 1 or 2 squares of recovery wadding into Body Tube
 2. Load Recovery Harness and Streamer into Body Tube
 3. Place Nose Cone on top of Body Tube - ensure slightly snug fit
@@ -43,7 +43,7 @@ Launch Preperation:
    - After a flight or two, the smaller size may fit better
 9. Launch using standard model rocket procedures
 
-Recommended motors and expected performance: 
+# Recommended motors and expected performance: 
 
 
 
@@ -54,7 +54,7 @@ A10-3T      = 240 ft (Optimum delay = 2.95 s)
 A3-4T       = 273 ft (Optimum delay = 3.3 s)
 
 
-IMPORTANT POST FLIGHT NOTES:
+# IMPORTANT POST FLIGHT NOTES:
 - 3D printed material shrinks after cooling down from heat of motor
 - Removal of motor may be difficult or impossible after one or several flights
 - The smaller motor retainer cap may fit better after the first flight
