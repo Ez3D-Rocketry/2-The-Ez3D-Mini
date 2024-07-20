@@ -42,7 +42,7 @@
     - Motor will fit loosely if BT-5 insulator is not used
     - Loose fit is not an issue with proper motor retention
 7. Screw Motor Retention Cap onto base of Fin Can
-   - Depending on yor printer, the larger sizes may fit better
+   - Depending on your printer, the larger sizes may fit better
    - After a flight or two, the smaller size may fit better
 9. Launch using standard model rocket procedures
 
