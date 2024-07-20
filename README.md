@@ -19,7 +19,7 @@ Assembly:
 4. Tape Body Tube to Fin Can - avoid blocking integrated launch lug
 5. Tie loose end of Recovery Harness to Nose Cone
 6. Tie streamer to Recovery Hanress near top of Nose Cone
-   #NOTE: Individual printers and filiment have different tolerances
+   --NOTE: Individual printers and filiment have different tolerances
    - Fit check items before assembly and sand to fit if requried
 
 Launch Preperation:
