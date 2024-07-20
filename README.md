@@ -24,3 +24,13 @@ Launch Preperation:
 4. Load motor into Fin Can
 5. Screw Motor Retention Cap onto base of Fin Can
 6. Launch using standard model rocket procedures
+
+
+"1350-6
+Ez3D Mini"	35g	"1/4A         = 28 ft   (Do not use)
+1/2A3-2T = 93 ft   (Opt delay = 2 s)
+A10-3T     = 240 ft (Opt Delay = 2.95 s)
+A3-4T       = 273 ft (Op Delay = 3.3 s)"	"PRO - flies well on A3 or A10 and body tube wide enough for easy loading
+
+One 18"" tube builds 3 models"
+![image](https://github.com/user-attachments/assets/8c043de8-9618-443e-bced-4fd5ac2cc921)
