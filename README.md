@@ -23,7 +23,7 @@ Assembly:
 Launch Preperation:
 1. Insert 1 or 2 squares of recovery wadding into Body Tube
 2. Load Recovery Harness and Streamer into Body Tube
-3. Place Nose Cone on top of Body Tube - ensure slight snug fit
+3. Place Nose Cone on top of Body Tube - ensure slightly snug fit
 4. Load motor into Fin Can
 5. Screw Motor Retention Cap onto base of Fin Can
 6. Launch using standard model rocket procedures
