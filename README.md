@@ -14,7 +14,7 @@ Parts List:
    - Flight tested on 9KM DWLIFE Black Braided Kevlar Cord (1.3mm, 300 lb) but others may work
 8. Twelve (12) inches of streamer (Optional)
 9. Two (2) inches of BT-5 type body tube (13mm) (Optional)
-    - This tube served as an Insulator between the motor and Fin Can
+    - This tube serves as an Insulator between the motor and Fin Can
     - Use of Insulator helps reduce Fin Can heat shrink after each launch
 
 Assembly: 
