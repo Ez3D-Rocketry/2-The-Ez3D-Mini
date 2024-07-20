@@ -5,7 +5,7 @@ Parts List:
 1. Ez3D-Mini Fin Can
 2. Ez3D-Mini Nose Cone
 3. Ez3D-Mini Motor Retention Cap
-4. 6 inches of BT-50 Body Tube
+4. 6 inches of BT-50 type body tube (i.e. 24mm)
    - A standard 18 inch tube makes three kits
    - 3D printable tube cutting guide included in repository files
 6. 3 feet of Kevlar string for Recovery Harness
