@@ -16,6 +16,9 @@
 9. Two (2) inches of BT-5 type body tube (13mm) (Optional)
     - This tube serves as an Insulator between the motor and Fin Can
     - Use of Insulator helps reduce Fin Can heat shrink after each launch
+  
+   ![IMG_8505](https://github.com/user-attachments/assets/79d75c4e-0f98-4b88-a1b9-2c68cafd9151)
+
 
 # Assembly: 
 
@@ -59,4 +62,9 @@ A3-4T       = 273 ft (Optimum delay = 3.3 s)
 - Removal of motor may be difficult or impossible after one or several flights
 - The smaller motor retainer cap may fit better after the first flight
 - If existing motor retainer caps no longer work, friction or tape may suffice for retention
-- PLA filiment most suspectable to shrinking. Others may last longer. 
+- PLA filiment most suspectable to shrinking. Others may last longer.
+
+## Entire kit fits in a sandwich ziplock bag!
+
+  ![IMG_8506](https://github.com/user-attachments/assets/e064aa6d-3a94-4101-9a2c-e6e24a4fcbe2)
+
