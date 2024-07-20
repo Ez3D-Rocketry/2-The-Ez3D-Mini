@@ -31,8 +31,8 @@ Launch Preperation:
 3. Place Nose Cone on top of Body Tube - ensure slightly snug fit
 4. Slide BT-5 insulator into Fin Can before motor (Optional)
 5. Load motor into Fin Can
- - Motor will fit loosely if BT-5 insulator is not used
- - Loose fit is not an issue with proper motor retention
+    - Motor will fit loosely if BT-5 insulator is not used
+    - Loose fit is not an issue with proper motor retention
 7. Screw Motor Retention Cap onto base of Fin Can
 8. Launch using standard model rocket procedures
 
