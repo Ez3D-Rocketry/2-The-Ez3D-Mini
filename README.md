@@ -30,8 +30,7 @@ Launch Preperation:
 Recommended motors and expected performance: 
 
 1/2 A3-2T  = 93 ft (Optimum delay = 2 sec)
-A10-3T     = 240 ft  (Optimum Delay = 2.95 s)
-A3-4T      = 273 ft  (OptimumDelay = 3.3 s)
+A10-3T     = 240 ft
 
 
 1/2A3-2T   = 93 ft   (Optimum delay = 2 s)
