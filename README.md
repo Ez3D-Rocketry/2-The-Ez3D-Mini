@@ -6,8 +6,9 @@ Parts List:
 2. Ez3D-Mini Nose Cone
 3. Ez3D-Mini Motor Retention Cap
 4. 6 inches of BT-50 Body Tube
-5. 3 feet of Kevlar string for Recovery Harness
-6. 12 inches of streamer (optional)
+   - A standard 18 inch tube makes three kits
+6. 3 feet of Kevlar string for Recovery Harness
+7. 12 inches of streamer (optional)
 
 Assembly: 
 1. Tie Recovery Harness to hole in Fin Can
