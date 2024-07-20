@@ -5,7 +5,9 @@ Parts List:
 1. Ez3D-Mini Fin Can
 2. Ez3D-Mini Nose Cone
 3. Ez3D-Mini Motor Retention Cap
-4. Six (6) inches of BT-50 type body tube (i.e. 24mm)
+   - Print out the multiple sizes
+   - Accounts for different printing tolerances and post flight shrinking 
+5. Six (6) inches of BT-50 type body tube (i.e. 24mm)
    - A standard 18 inch tube makes three kits
    - 3D printable tube cutting guide included in repository files
 6. Three (3) feet of Kevlar string for Recovery Harness
@@ -34,7 +36,9 @@ Launch Preperation:
     - Motor will fit loosely if BT-5 insulator is not used
     - Loose fit is not an issue with proper motor retention
 7. Screw Motor Retention Cap onto base of Fin Can
-8. Launch using standard model rocket procedures
+   - Depending on yor printer, the larger sizes may fit better
+   - After a flight or two, the smaller size may fit better
+9. Launch using standard model rocket procedures
 
 Recommended motors and expected performance: 
 
@@ -50,4 +54,6 @@ A3-4T       = 273 ft (Optimum delay = 3.3 s)
 IMPORTANT POST FLIGHT NOTES:
 - 3D printed material shrinks after cooling down from heat of motor
 - Removal of motor may be difficult or impossible after one or several flights
+- The smaller motor retainer cap may fit better after the first flight
+- If existing motor retainer caps no longer work, friction or tape may suffice for retention
 - PLA filiment most suspectable to shrinking. Others may last longer. 
