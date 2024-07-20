@@ -27,6 +27,9 @@ Launch Preperation:
 5. Screw Motor Retention Cap onto base of Fin Can
 6. Launch using standard model rocket procedures
 
+Recommended motors and expected performance: 
 
+1/2A3-2T   = 93 ft   (Optimum delay = 2 s)
+A10-3T     = 240 ft  (Optimum Delay = 2.95 s)
+A3-4T      = 273 ft  (OptimumDelay = 3.3 s)
 
-![image](https://github.com/user-attachments/assets/8c043de8-9618-443e-bced-4fd5ac2cc921)
