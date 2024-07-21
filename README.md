@@ -7,17 +7,17 @@
 3. Ez3D-Mini Motor Retention Cap
    - Print out the multiple sizes
    - Accounts for different printing tolerances and post flight shrinking 
-5. Six (6) inches of BT-50 type body tube (i.e. 24mm)
+4. Six (6) inches of BT-50 type body tube (i.e. 24mm)
    - A standard 18 inch tube makes three kits
    - 3D printable tube cutting guide included in repository files
-6. Three (3) feet of Kevlar string for Recovery Harness
+5. Three (3) feet of Kevlar string for Recovery Harness
    - Flight tested on 9KM DWLIFE Black Braided Kevlar Cord (1.3mm, 300 lb) but others may work
-8. Twelve (12) inches of streamer (Optional)
-9. Two (2) inches of BT-5 type body tube (13mm) (Optional)
+6. Twelve (12) inches of streamer (Optional)
+7. 1 <sup>3</sup>/<sub>8</sub> inches of BT-5 type body tube (13mm) (Optional)
     - This tube serves as an Insulator between the motor and Fin Can
     - Use of Insulator helps reduce Fin Can heat shrink after each launch
   
-   ![IMG_8505](https://github.com/user-attachments/assets/79d75c4e-0f98-4b88-a1b9-2c68cafd9151)
+ pic
 
 
 # Assembly: 
@@ -41,10 +41,11 @@
 5. Load motor into Fin Can
     - Motor will fit loosely if BT-5 insulator is not used
     - Loose fit is not an issue with proper motor retention
-7. Screw Motor Retention Cap onto base of Fin Can
+6. Screw Motor Retention Cap onto base of Fin Can
    - Depending on your printer, the larger sizes may fit better
    - After a flight or two, the smaller size may fit better
-9. Launch using standard model rocket procedures
+7. Launch using standard model rocket procedures
+
 
 # Recommended motors and expected performance: 
 
