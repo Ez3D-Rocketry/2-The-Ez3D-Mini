@@ -64,6 +64,7 @@ A3-4T       = 273 ft (Optimum delay = 3.3 s)
 # IMPORTANT POST FLIGHT NOTES:
 - 3D printed material shrinks after cooling down from heat of motor
 - Removal of motor may be difficult or impossible after one or several flights
+     - New tapered intermal motor mount tube might mitigate this issue...
 - The smaller motor retainer cap may fit better after the first flight
 - If existing motor retainer caps no longer work, friction or tape may suffice for retention
 - PLA filament most suspectable to shrinking. Others may last longer.
