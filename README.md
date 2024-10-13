@@ -13,10 +13,7 @@
 5. Three (3) feet of Kevlar string for Recovery Harness
    - Flight tested on 9KM DWLIFE Black Braided Kevlar Cord (1.3mm, 300 lb) but others may work
 6. Twelve (12) inches of streamer (Optional)
-7. 1 <sup>3</sup>/<sub>8</sub> inches of BT-5 type body tube (13mm) (Optional)
-    - This tube serves as an Insulator between the motor and Fin Can
-    - Use of Insulator helps reduce Fin Can heat shrink after each launch
-8. Tape
+7. Tape
 
 ![IMG_8630](https://github.com/user-attachments/assets/f9ae94c9-5d4c-404a-957a-ee56761a1d3d)
 
@@ -40,14 +37,11 @@
 1. Insert 1 or 2 squares of recovery wadding into Body Tube
 2. Load Recovery Harness and Streamer into Body Tube
 3. Place Nose Cone on top of Body Tube - ensure slightly snug fit
-4. Slide BT-5 insulator into Fin Can before motor (Optional)
-5. Load motor into Fin Can
-    - Motor will fit loosely if BT-5 insulator is not used
-    - Loose fit is not an issue with proper motor retention
-6. Screw Motor Retention Cap onto base of Fin Can
+4. Load motor into Fin Can
+5. Screw Motor Retention Cap onto base of Fin Can
    - Depending on your printer, the larger sizes may fit better
    - After a flight or two, the smaller size may fit better
-7. Launch using standard model rocket procedures
+6. Launch using standard model rocket procedures
 
 
 # Recommended motors and expected performance: 
@@ -64,7 +58,6 @@ A3-4T       = 273 ft (Optimum delay = 3.3 s)
 # IMPORTANT POST FLIGHT NOTES:
 - 3D printed material shrinks after cooling down from heat of motor
 - Removal of motor may be difficult or impossible after one or several flights
-     - New tapered intermal motor mount tube might mitigate this issue...
 - The smaller motor retainer cap may fit better after the first flight
 - If existing motor retainer caps no longer work, friction or tape may suffice for retention
 - PLA filament most suspectable to shrinking. Others may last longer.
