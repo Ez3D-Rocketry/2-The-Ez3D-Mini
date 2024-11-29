@@ -2,12 +2,11 @@
 ## Great park flyer that uses mini A motors. Parts tape together. No glue required. 
 
 # Parts List:
-1. Ez3D-Mini-Lite Fin Can
-2. Ez3D-Mini-Lite  Nose Cone
-3. Ez3D-Mini-Lite  Motor Retention Cap
-   - Print out the multiple sizes
-   - Accounts for different printing tolerances and post flight shrinking 
-4. Six (6) inches of BT-50 type body tube (i.e. 18mm)
+1. Ez3D-1350-4 Fin Can
+2. BT-50 Nose Cone
+3. 13mm Retainer Cap
+   - Print out the multiple sizes (No scaling, +3%, +5%), These account for different printing tolerances and post flight shrinking.
+4. Six (6) inches of BT-50 type body tube
    - A standard 18 inch tube makes three kits
    - 3D printable tube cutting guide included in repository files
 5. Three (3) feet of Kevlar string for Recovery Harness
@@ -19,9 +18,6 @@
 
 
 # Assembly: 
-
-**NOTE: Individual printers and filament have different tolerances** <br />
-**- Fit check items before assembly and sand to fit if required**
      
 1. Tie Recovery Harness to hole in Fin Can
 2. Thread Recovery Harness thru Body Tube
@@ -29,6 +25,13 @@
 4. Tape Body Tube to Fin Can - avoid blocking integrated launch lug
 5. Tie loose end of Recovery Harness to Nose Cone
 6. Tie streamer to Recovery Harness near top of Nose Cone
+
+**NOTE: Individual printers and filament have different tolerances** <br />
+**- Fit check items before assembly. Options to adjust if necessary:**
+- Add tape to increase diameter
+- Remove material by sanding
+- If your printer has a scaling feature, use it to adjust the part size
+- Change the dimensions in the FreeCAD file
 
 ![IMG_8631](https://github.com/user-attachments/assets/58287e29-104e-4233-98d7-ca3a119b4274)
 
